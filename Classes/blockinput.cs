@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
-// Copied from: https://stackoverflow.com/questions/20841501/blockinput-method-doesnt-work-on-windows-7
+//  Copied from: https://stackoverflow.com/questions/20841501/blockinput-method-doesnt-work-on-windows-7
 
 namespace blockinput
 {
