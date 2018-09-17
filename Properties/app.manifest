@@ -17,6 +17,7 @@
             com versões anteriores.
         -->
         <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        <!-- Now is  required administrator privileges -->
       </requestedPrivileges>
     </security>
   </trustInfo>
