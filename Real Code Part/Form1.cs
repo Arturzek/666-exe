@@ -33,7 +33,7 @@ namespace CreepyProject
             gkh.HookedKeys.Add(Keys.RWin);
             gkh.HookedKeys.Add(Keys.LWin);
             gkh.HookedKeys.Add(Keys.Tab);
-            gkh.HookedKeys.Add(Keys.A);
+            gkh.HookedKeys.Add(Keys.Alt);
 
 
 
